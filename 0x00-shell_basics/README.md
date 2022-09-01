@@ -1,1 +1,1 @@
-script on listing hidden files
+script abouting listing files and digits in long formats
