@@ -1,1 +1,1 @@
-this script changes the working directory to home directory
+a script that tells us what command that list files in a long format
