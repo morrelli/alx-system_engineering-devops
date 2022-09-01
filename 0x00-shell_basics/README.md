@@ -1,1 +1,1 @@
-script abouting listing files and digits in long formats
+script that creates a directory named my_first_directory in the /tmp/ directory
